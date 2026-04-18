@@ -75,18 +75,22 @@ You'll have to respring your device for changes to take effect. Click [here](htt
 
 ## How do I respring after applying the tweaks?
 
-**Method 1: RespringApp**
-1. Install [RespringApp](https://github.com/jailbreakdotparty/dirtyZero/releases/download/respringapp/respringapp.ipa) using your preferred method of sideloading.
-2. In dirtyZero, click the orange "Respring" button.
-3. Profit 🔥
+**Method 1: In-app Respring**<br><br>
+Introduced in version 1.4, dirtyZero can respring the device without additional apps thanks to [neon](https://github.com/neonmodder123)!
 
-If you sideloaded RespringApp using SideStore or have otherwise changed the bundle ID of RespringApp, you will need to manually set the app's bundle ID in dirtyZero's settings for the built-in Respring button to work.
+**Method 2: Respringr**
+1. Install [Respringr](https://github.com/jailbreakdotparty/dirtyZero/releases/download/respringr/respringr.ipa) using your preferred method of sideloading.
+2. In dirtyZero, go to settings and toggle "Use Respring App" on.
+3. In the main menu, click the orange "Respring" button.
+4. Profit 🔥
 
-You can also open RespringApp from the Home Screen to cause a respring.
+If you sideloaded Respringr using SideStore or have otherwise changed the bundle ID of Respringr, you will need to manually set the app's bundle ID in dirtyZero's settings for the built-in Respring button to work.
 
-*This method brought to you by [@nyaathea](https://x.com/nyaathea).*
+You can also open Respringr from the Home Screen to cause a respring.
 
-**Method 2: Display & Text Size**
+*Alternatively you can use [RespringApp](https://github.com/jailbreakdotparty/dirtyZero/releases/download/respringapp/respringapp.ipa) by [@nyaathea](https://x.com/nyaathea). You will need to manually set RespringApp's bundle ID in dirtyZero's settings below "Use Respring App".*
+
+**Method 3: Display & Text Size**
 1. Before applying the tweaks, go into Settings > Display & Brightness > Display Zoom
 2. Pick the option that's opposite of the one you're currently using.
 3. After, apply the tweaks.
